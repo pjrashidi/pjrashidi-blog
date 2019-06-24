@@ -26,7 +26,7 @@ So I propose a different way of looking at things.
   "Nothing is hard, it just takes getting used to"
   "I HAVE to fail before I get good at this, so it's not a bad thing"
   "I, like anyone else, am cabable of trying and failing"
-  "If I keep putting in my time, I will get good at this thing"
+  "All I have to worry about is to keep trying despite failure, the rest will sort itself out"
 
 A note on timeframes:
 You may be thinking to yourself "Ok that's great but I dont want to be stuck in try/fail pergatory forever, I want to be good! When do I quit?"
