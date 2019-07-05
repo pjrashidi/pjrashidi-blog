@@ -1,6 +1,6 @@
 ---
 title: Might As Well Be Now
-date: 2019-07-02
+date: 2019-07-05
 ---
 
 Is there a lifestyle change you've been putting off?
